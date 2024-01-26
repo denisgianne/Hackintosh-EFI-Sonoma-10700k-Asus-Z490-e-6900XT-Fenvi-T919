@@ -24,3 +24,5 @@ Storage: WD_BLACK SN770 1TB
 - MotherBoard Audio Outputs √
 - GPU outputs ( HDMI and DP ) √
 - Docker and Virtualizations √
+- USB 3 speeds √
+- USB Mapping / power gadgets / Wake devices √
